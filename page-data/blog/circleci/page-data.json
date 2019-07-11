@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-js","path":"/blog/circleci","webpackCompilationHash":"688a12b7e56babfcd1a4","result":{"data":{"markdownRemark":{"frontmatter":{"title":"My article about CircleCI","date":"2019-07-11"},"html":"<p>I added CircleCI to check the health of this blog.</p>"}},"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"circleci"}}}
